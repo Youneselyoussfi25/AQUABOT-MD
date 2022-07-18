@@ -11,16 +11,16 @@
                             "WARN"     : "Warn"
                            },
                   "yt" :   {
-                            "N_SONG"   : "*🧜‍♀️💬ENTER A SONG NAME*\nex : .song faded" ,
+                            "N_SONG"   : "*🧜‍♀️💬DIR SMYA DYAL DISC WALA SORA MAN 9OR2AN*\nex : .song YA RASSOLA LAH" ,
                             "NOT_SONG" : "*SONG NOT FOUND‼️*" ,
-                            "S_YT"     : "*🔍SEARCHING ON YOUTUBE...*" ,
-                            "N_YT"     : "*🧜‍♀️💬ENTER A TOPIC* \nex : .getyt sri lanka cricket" ,
-                            "N_VID"    : "*🧜‍♀️💬ENTER A YOUTUBE VIDEO LINK*\nex : .video https://youtu.be/pyCIKli4YUA" ,
+                            "S_YT"     : "*🔍STANA RANI KANFATAX F YOUTUBE...*" ,
+                            "N_YT"     : "*🧜‍♀️💬ENTER A TOPIC* \nex : .getyt شرح كيفية الوضوء الصحيح" ,
+                            "N_VID"    : "*🧜‍♀️💬DIR LINK VIDEO YOUTUBE  *\nex : .video https://youtu.be/pyCIKli4YUA" ,
                             "N_FB"     : "*🧜‍♀️💬ENTER A FACEBOOK VIDEO LINK*" , 
-                            "N_MF"     : "*🧜‍♀️💬ENTER A MEDIAFIRE LINK*" , 
+                            "N_MF"     : "*🧜‍♀️💬DIR LINK MEDIAFIRE *" , 
                             "N_TIK"    : "*🧜‍♀️💬ENTER A TIKTOK VIDEO LINK*" ,
                             "NOT_VID"  : "*VIDEO NOT FOUND‼️*", 
-                            "N_IG "    : "🧜‍♀️💬ENTER A INSTAGRAM LINK",
+                            "N_IG "    : "🧜‍♀️💬DIR LINK INSTAGRAM ",
                             "N_FOUND"  : "*NOT FOUND‼️*"
                           } ,
                 "admin" : {  
@@ -48,7 +48,7 @@
                            },
                
                 "apk"  :  {  
-                              "N_LINK" : "*🧜‍♀️💬 Enter a google playstore app link .*" ,
+                              "N_LINK" : "*🧜‍♀️💬 DIR link app playstore.*" ,
                               "ERROR"  : "*🧜‍♀️💬APK Not Found!.*"
     
                            },
