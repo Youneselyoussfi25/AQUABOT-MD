@@ -12,7 +12,7 @@
                            },
                   "yt" :   {
                             "N_SONG"   : "*🧜‍♀️💬ENTER A SONG NAME*\nex : .song faded" ,
-                            "NOT_SONG" : "*SONG NOT FOUND‼️*" ,
+                            "NOT_SONG" : "*بوت اليوسفي لم يتعرف على الاغنية‼️*" ,
                             "S_YT"     : "*🔍SEARCHING ON YOUTUBE...*" ,
                             "N_YT"     : "*🧜‍♀️💬ENTER A TOPIC* \nex : .getyt sri lanka cricket" ,
                             "N_VID"    : "*🧜‍♀️💬ENTER A YOUTUBE VIDEO LINK*\nex : .video https://youtu.be/pyCIKli4YUA" ,
